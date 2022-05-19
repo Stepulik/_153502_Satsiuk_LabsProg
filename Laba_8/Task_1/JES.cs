@@ -18,7 +18,8 @@ namespace Task_1
         {
             perslist.Add(new person(name, new WhithBenefits(cost, procents)));
         }
-        
+
+
         public double GetTotalCost()
         {
             double result = 0;

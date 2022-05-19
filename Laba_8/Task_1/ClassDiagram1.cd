@@ -8,30 +8,30 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Task_1.WhithBenefits" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICost.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.179" Collapsed="true" />
+  </Class>
+  <Class Name="Task_1.WhithoutBenefits" BaseTypeListCollapsed="true">
     <Position X="4.25" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ICost.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="1.179" />
-  </Class>
-  <Class Name="Task_1.WhithoutBenefits" BaseTypeListCollapsed="true">
-    <Position X="6.5" Y="4" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>ICost.cs</FileName>
-    </TypeIdentifier>
-    <Lollipop Position="0.127" />
+    <Lollipop Position="0.127" Collapsed="true" />
   </Class>
   <Class Name="Task_1.person">
-    <Position X="2.75" Y="1.25" Width="1.5" />
+    <Position X="2.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAAA=</HashCode>
       <FileName>Person.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="Task_1.ICost">
-    <Position X="5" Y="1.75" Width="1.5" />
+    <Position X="4.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ICost.cs</FileName>
