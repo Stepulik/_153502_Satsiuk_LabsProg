@@ -54,15 +54,17 @@ namespace Task_1
         }
         public double GetCostByName(string name)
         {
+            double result = 0;
             foreach (person item in perslist)
             {
                 if (item.name == name)
                 {
-                    return item.GetCost();
+                    result += item.GetCost();
                 }
             }
-            return 0;
+            return result;
         }
+
     }
 
     interface ICost

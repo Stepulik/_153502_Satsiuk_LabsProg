@@ -11,8 +11,6 @@ namespace Task_1
         public string name;
         ICost icost;
 
-        public int discount;
-  
         public person(string name, ICost icost)
         {
             this.name = name;

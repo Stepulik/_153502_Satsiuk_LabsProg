@@ -38,9 +38,9 @@ namespace Task_1_test
             JES jes = new JES();
 
             jes.AddPersonWhithoutBenefits("A", 1000);
-            jes.AddPersonWhithBenefits("B", 1000, 50);
+            jes.AddPersonWhithBenefits("A", 1000, 50);
 
-            Assert.AreEqual(jes.GetCostByName("A"), 1000);
+            Assert.AreEqual(jes.GetCostByName("A"), 1500);
         }
 
 
